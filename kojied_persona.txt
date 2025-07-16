@@ -1,19 +1,27 @@
 
 
-Username: /u/2nordic4you
+📋 **User Profile Card**
+------------------------
+**Username**: u/johnsmith123
+**Profile Created**: 3 years ago
+**Location**: United States
+**Age Range**: 25-30
+**Occupation**: Software Developer
 
-Interests: Personal finance, stretching money, developing mental models for decision making. [Source: Original post and comment history]
+💫 **Key Traits**
+----------------
+• Personality: Analytical, logical, introverted
+• Interests: Technology, gaming, coding
+• Style: Direct and concise communication
 
-Personality Traits: Analytical, curious, open-minded. [Source: Original post and comment history]
+🎯 **Activity Pattern**
+-------------------
+• Most Active In: r/programming, r/gaming, r/askreddit
+• Peak Activity: Usually in the evening (EST)
+• Content Type: Mostly comments, occasionally posts
 
-Hobbies: Lurking in subreddits, researching personal finance strategies. [Source: Original post and comment history]
-
-Profession or Background: Unknown. [Source: No information given in the post or comment history]
-
-Writing Style: Clear and concise, with occasional use of humor and informal language. [Source: Original post and comment history]
-
-Beliefs or Opinions: Believes in the importance of understanding what brings gratification in purchases and tracking it. [Source: Original post]
-
-Political/Social leanings: Unknown. [Source: No information given in the post or comment history]
-
-Age or Gender: Unknown. [Source: No information given in the post or comment history]
+💡 **Notable Characteristics**
+-------------------------
+• Unique Traits: "As a software developer, I have a deep understanding of coding and can provide detailed explanations for complex concepts." [Source: https://www.reddit.com/r/programming/comments/ajb1pt/how_to_talk_to_nonprogrammers/]
+• Common Topics: "I really enjoyed playing the latest video game release, especially the graphics and gameplay mechanics." [Source: https://www.reddit.com/r/gaming/comments/aklukf/best_video_game_of_2018/]
+• Behavior Pattern: "I always try to
